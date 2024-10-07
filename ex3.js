@@ -1,7 +1,4 @@
-// // function Hello(){
-// //     var para=document.getElementById("para");
-// //     para.innerHTML="Lion is a Always Lion ";
-// // }
+
 
 // document.getElementById("but").addEventListener("click", changeParagraphText);
 function changeParagraphText() {
@@ -33,8 +30,5 @@ function changeParagraphText() {
 }
 
 
-// function changeParagraphText() {
-//     var para = document.getElementById("textParagraph");
-//     para.innerHTML = "Lion is a Always Lion";
-// }
+
 
